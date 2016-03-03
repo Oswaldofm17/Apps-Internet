@@ -1,0 +1,42 @@
+header
+{
+ margin-right:0px;
+ background-color:#424242;
+ color: #FFF;
+ text-align:center;  
+}
+body
+{
+ color:#424242;
+}
+.row
+{
+  margin-top:0px;
+ font-size: 18px;
+ background-color:#424242;
+ color: #FFF;
+ margin-right:0px;
+}
+footer
+{
+ margin-right:0px;
+ padding:10px;
+ background-color:#58D3F7;
+ color:#151515;
+ font-size:14px;
+}
+.biography
+{
+ background-color:#FFFFFF;
+}
+.biography p
+{
+ font-size: 16px;
+ text-align:justify;
+}
+
+.biography h4
+{
+ color:#8A2908;
+}
+
