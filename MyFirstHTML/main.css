@@ -1,0 +1,22 @@
+header
+{
+ background-color:#000055;
+ padding-top: 15px;
+ margin-top: 15px;
+}
+#title
+{
+ margin-left:50px;
+}
+section > .row > .col-md-4:first-of-type > p
+{
+ color:red;
+}
+.content 
+{
+ font-size:20px;
+}
+footer > p
+{
+ color:#349300
+}
